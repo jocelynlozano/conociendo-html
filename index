@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="favicon.ico">
+	<title>Conociendo HTML</title>
+</head>
+<style type="text/css">
+img {
+margin-top: 50px;
+margin-left: 500px;
+}
+</style>
+<body>
+	<h1>Grace Hopper</h1>
+
+	<h2>Bio</h2>
+
+	<p>Grace Murray Hopper nacio en Nueva York el 9 de diciembre de 1906 en el seno de una familia en la que se cosideraba que los varones y las mujeres debian tener las mismas oortunidades</p>
+
+	<ul>
+		<li>Cocinar</li>
+		<li>Programar</li>
+		<ul>
+			<li>Javasript</li>
+			<li>Ruby</li>
+			<li>Java</li>
+		</ul>
+		<li>Enseñar</li>
+		</ul>
+<h2>3 Sueños que tengo</h2>
+<ol>
+<li>Viajar por el mundo</li>
+<li>Ver a laboratoria en todo el mundo</li>
+<li>Que aprendan a codear</li>
+</ol>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSElAkZepJPWqY1F1h8-SFvZ3291YOBndbzu7S6udAE6K2tMEmI" width="327" heigth="47"/>
+</body>
+</html>
